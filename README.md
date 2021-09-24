@@ -8,7 +8,7 @@ In this project, authentication is the process of determining whether someone or
 
 
 <h3>== Screenshots ==</h3>
-  <img src="img/screenshot.png>
-  <img src="img/screenshot2.png>
-  <img src="img/screenshot3.png>
-  <img src="img/screenshot4.png>
+  <img src="img/screenshot.png">
+  <img src="img/screenshot2.png">
+  <img src="img/screenshot3.png">
+  <img src="img/screenshot4.png">
