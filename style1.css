@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(245,222,179);
+}
+.img1,.img2,.img3{
+    position:relative;
+    opacity:0.90;
+    background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.img1{
+    background-image: url('img/seven.jpg');
+    min-height: 700px;
+}
+.img2{
+    background-image: url('img/six.webp');
+    min-height: 700px;  
+}
+.img3{
+    background-image: url('img/six.webp');
+    min-height: 700px;  
+}
+.nav-list,ul,.menu
+{
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+    margin-right: 20px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-family: var(--font-sans);
+    font-size: large;
+}
+header a:hover{
+    color:goldenrod;
+}
+.text{
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+iframe{
+    width: 80%;
+    height: 500px;
+    display:block;
+    margin:auto;
+}
+
+.heading{
+    display:block;
+    margin:auto;
+    letter-spacing: 5px;
+    font-size: 30px;
+    text-align: center;
+   
+}
+.list,a
+{
+    color: black;
+    letter-spacing: 3px;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 20px;
+  
+}
+.section{
+ 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #282e34;
+        color: #ddd;
+        text-align: center;
+        /* padding: 3em 2em; */
+        /* width: 100%; */
+}
+.contact-style{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+
+}
