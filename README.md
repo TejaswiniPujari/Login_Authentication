@@ -8,11 +8,11 @@ In this project, authentication is the process of determining whether someone or
 
 
 <h3>== Screenshots ==</h3>
-<b>firstPage:</b><br>
+<b>firstPage:</b><hr>
   <img src="img/screenshot.png"><br>
-</b>Login Sucessfully:</b><br>
+<b>Login Sucessfully:</b><hr>
   <img src="img/screenshot2.png"><br>
-<b>Login Fail:</b><br>
+<b>Login Fail:</b><hr>
   <img src="img/screenshot3.png"><br>
- <b>Forgot Username and Password:</b><br>
+ <b>Forgot Username and Password:</b><hr>
   <img src="img/screenshot4.png">
