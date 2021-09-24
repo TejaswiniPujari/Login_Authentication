@@ -18,7 +18,7 @@ In this project, authentication is the process of determining whether someone or
   <img src="img/screenshot4.png">
 
 <h3>== Website Link ==</h3>
-"https://github.com/TejaswiniPujari/Login_Authentication.git"
+"https://tejaswinipujari.github.io/Login_Authentication/"
   <br>
   <br>
  <p style="text-align:center;"><i>Copyright © 2021 | Tejaswini Pujari</i></p>
